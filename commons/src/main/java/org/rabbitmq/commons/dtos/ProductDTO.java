@@ -1,5 +1,7 @@
 package org.rabbitmq.commons.dtos;
 
+import org.rabbitmq.commons.constants.RabbitMQConstants;
+
 import java.util.Objects;
 
 public class ProductDTO {
